@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+beanie
+motor
+pydantic
+pydantic[email]
+email-validator
+python-dotenv
+numpy

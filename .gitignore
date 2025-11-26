@@ -1,0 +1,8 @@
+.env
+frontend/.env
+test_mongo.py
+test.py
+*.pyc
+venv/
+frontend/node_modules/
+__pycache__/
