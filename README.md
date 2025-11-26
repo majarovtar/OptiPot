@@ -1,11 +1,9 @@
 # 🚚 OptiPot - Smart Delivery Route Optimization
 
-<p align="center">
-  <img src="frontend/public/image.jpg" alt="OptiPot Logo" width="600"/>
-</p>
+## 🏆 Winner of AdaHack 2025 - Optimization of Delivery Routes Challenge! 🏆</strong>
 
 <p align="center">
-  <strong>🏆 Winner of AdaHack 2025 - Optimization of Delivery Routes Challenge</strong>
+  <img src="frontend/public/image.jpg" alt="OptiPot Logo" width="600"/>
 </p>
 
 OptiPot is a delivery route optimization platform combining advanced algorithms with environmental consciousness. Built to tackle the complex challenges of modern urban delivery, OptiPot helps businesses reduce costs, minimize environmental impact, and improve delivery efficiency.
@@ -25,7 +23,17 @@ OptiPot leverages Google OR-Tools and historic data processing to solve the Vehi
 - 💰 **Cost Optimization** - Minimize fuel costs and maximize vehicle utilization
 - 📱 **Driver-Friendly Interface** - Simple, intuitive navigation for delivery personnel
 
-## 🛠️ Tech Stack
+  
+<img width="1384" height="677" alt="Screenshot 2025-11-26 at 18 55 12" src="https://github.com/user-attachments/assets/ff456b1b-7871-47af-8966-e14e2c1e21e2" />
+<img width="1384" height="677" alt="Screenshot 2025-11-26 at 18 55 31" src="https://github.com/user-attachments/assets/943934b3-2709-4f50-b5de-e27499a39077" />
+<img width="1384" height="677" alt="Screenshot 2025-11-26 at 18 55 19" src="https://github.com/user-attachments/assets/5b7d2e23-30c1-4936-ad36-3d14e9c5837c" />
+<img width="1420" height="677" alt="Screenshot 2025-11-26 at 18 56 04" src="https://github.com/user-attachments/assets/f53d0b8f-6f28-42f8-88f4-df42a888d66b" />
+<img width="1420" height="677" alt="Screenshot 2025-11-26 at 18 55 57" src="https://github.com/user-attachments/assets/93fccfbc-e9be-4d2d-a44d-94eb70e0099e" />
+<img width="1420" height="690" alt="Screenshot 2025-11-26 at 18 56 11" src="https://github.com/user-attachments/assets/cc5e9399-d53c-485c-9dc3-96f7393e723a" />
+<img width="1420" height="690" alt="Screenshot 2025-11-26 at 18 56 18" src="https://github.com/user-attachments/assets/dcfa39e0-00fc-46f8-b3b8-cb7ab682a86b" />
+
+
+## Tech Stack
 
 ### Backend
 - **FastAPI** - High-performance Python web framework
@@ -121,5 +129,6 @@ Before you begin, ensure you have:
 - ⚡ Performance filters (traffic avoidance, express priority)
 
 ---
+
 
 Built with ❤️ for a more sustainable future in logistics 🌍
