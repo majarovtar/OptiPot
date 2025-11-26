@@ -6,7 +6,7 @@
   <img src="frontend/public/image.jpg" alt="OptiPot Logo" width="600"/>
 </p>
 
-OptiPot is a delivery route optimization platform combining advanced algorithms with environmental consciousness. Built to tackle the complex challenges of modern urban delivery, OptiPot helps businesses reduce costs, minimize environmental impact, and improve delivery efficiency.
+OptiPot is a delivery route optimization platform combining advanced algorithms with environmental consciousness. Built to tackle the complex challenges of modern urban delivery, OptiPot helps businesses reduce costs, minimize environmental impact, and improve delivery efficiency. 
 
 ## Overview
 
@@ -131,3 +131,4 @@ Before you begin, ensure you have:
 ---
 
 Built with ❤️ for a more sustainable future in logistics 🌍
+
